@@ -1,0 +1,58 @@
+.phone{ 
+width: 800px; height: 1600px; margin-top:10px ; margin-left: 400px;}
+
+.lining{ width: 338px;border: 3px solid silver;height: 700px;border-radius: 62px;}
+.innerlining{ width:332px ; height: 695px; border: 3.2px solid; border-radius: 60px; 
+    background:
+    linear-gradient(to top, #555555,#000000 9px, transparent 8px),
+    linear-gradient(to left, #ececec,#000000 9px, transparent 0px),
+    linear-gradient(to right, #ececec,#111111 9px, transparent 8px),
+    linear-gradient(to bottom, #555555,#151515 9px, transparent 8px),
+    radial-gradient( circle at 100% 100%,#212121,#555555 20000px, transparent 30px)
+  
+    
+}
+
+
+
+
+
+.inner{border: 0px solid red; height: 676px;width: 314px; border-radius:57.5px; margin-left: 9px;margin-top: 8px;
+
+
+}
+
+
+
+.down{background: 
+    radial-gradient(circle at  40% 80%,rgb(242,221,211), rgb(231,104,90),transparent),
+    radial-gradient(ellipse at 0% 20% , rgb(233,86,139), rgb(77,7,228))
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ;width: 314px; height:678px;border: 0px solid red ;  border-radius: 57.5px }
+
+
+    
+
+
+
+
+
+
+
+
+
+.bezel{width: 130px;height: 15px;border: 0px solid; margin-left: 98px;border-radius:  0px 0px 12px 12px;margin-top:10px; background-color:#181818;z-index: 1;margin-top: -678px;}
+.speaker{ margin-left: 40px; border: 2px solid #303030; width: 40px; border-radius: 20px;top: 30px;position: absolute;}
+.camera{border: 1px solid ; height: 5px;width: 5px;border-radius: 50%; margin-left: 95px;top: 27px;position: absolute; background-color:#76ceff}
+.screen{background-color: yellow;} 
